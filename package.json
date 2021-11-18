@@ -12,5 +12,14 @@
     "dotenv": "^10.0.0",
     "inquirer": "^8.2.0",
     "mysql2": "^2.3.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianbrinkerhoff09/Hw12-SQL-Employee-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ianbrinkerhoff09/Hw12-SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/ianbrinkerhoff09/Hw12-SQL-Employee-Tracker#readme"
 }

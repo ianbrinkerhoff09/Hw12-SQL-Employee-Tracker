@@ -23,5 +23,5 @@ VALUES  ("Ian", "Brinkerhoff", 1, null),
         ("Michael", "Brinkman", 5, 2),
         ("William", "Coleman", 6, 2),
         ("Richard", "Paine", 7, 2),
-        ("Shelby", "Ranger", 7, 3),
-        ("Ryan", "Fraser", 7, 3)
+        ("Shelby", "Ranger", 7, 2),
+        ("Ryan", "Fraser", 7, 2)
